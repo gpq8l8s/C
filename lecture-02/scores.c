@@ -1,5 +1,5 @@
-#include "./src/cs50.c"
-#include "stdio.h"
+#include <cs50.h>
+#include <stdio.h>
 
 //take the avarage of three variables
 int main(void)
